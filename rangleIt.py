@@ -9,7 +9,7 @@ Created on Wed Jun 14 22:52:23 2017
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import statsmodels.formula.api as sm
+import statsmodels.formula.api as sm #import statsmodel
 
 
 def drawLine(model, X_test, y_test, title, x_label, y_label, labels):
